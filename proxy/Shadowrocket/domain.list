@@ -1,3 +1,11 @@
+# NAME: Surge-proxy
+# AUTHOR: duduskying
+# REPO: https://github.com/duduskying/rule
+# UPDATED: 2024-12-28 00:59:08
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+
 # NAME: Shadowrocket-proxy
 # AUTHOR: duduskying
 # REPO: https://github.com/duduskying/rule
@@ -16,3 +24,4 @@ DOMAIN-SUFFIX,116cd.net
 DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,sq.cc
 DOMAIN,12213123.com
+DOMAIN-SUFFIX,chaturbate.com
