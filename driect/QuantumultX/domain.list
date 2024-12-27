@@ -1,0 +1,17 @@
+# NAME: QuantumultX-driect
+# AUTHOR: duduskying
+# REPO: https://github.com/duduskying/rule
+# UPDATED: 2024-07-03 16:12:40
+# HOST: 1
+# HOST-SUFFIX: 9
+# TOTAL: 10
+HOST,fhnfile.oss-cn-shenzhen.aliyuncs.com,driect
+HOST-SUFFIX,115.com,driect
+HOST-SUFFIX,115cdn.com,driect
+HOST-SUFFIX,115cdn.net,driect
+HOST-SUFFIX,115img.com,driect
+HOST-SUFFIX,116cd.cn,driect
+HOST-SUFFIX,116cd.com,driect
+HOST-SUFFIX,116cd.net,driect
+HOST-SUFFIX,anxia.com,driect
+HOST-SUFFIX,sq.cc,driect
