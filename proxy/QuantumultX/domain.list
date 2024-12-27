@@ -5,13 +5,13 @@
 # HOST: 1
 # HOST-SUFFIX: 9
 # TOTAL: 10
-HOST,fhnfile.oss-cn-shenzhen.aliyuncs.com,115
-HOST-SUFFIX,115.com,115
-HOST-SUFFIX,115cdn.com,115
-HOST-SUFFIX,115cdn.net,115
-HOST-SUFFIX,115img.com,115
-HOST-SUFFIX,116cd.cn,115
-HOST-SUFFIX,116cd.com,115
-HOST-SUFFIX,116cd.net,115
-HOST-SUFFIX,anxia.com,115
-HOST-SUFFIX,sq.cc,115
+HOST,fhnfile.oss-cn-shenzhen.aliyuncs.com,proxy
+HOST-SUFFIX,115.com,proxy
+HOST-SUFFIX,115cdn.com,proxy
+HOST-SUFFIX,115cdn.net,proxy
+HOST-SUFFIX,115img.com,proxy
+HOST-SUFFIX,116cd.cn,proxy
+HOST-SUFFIX,116cd.com,proxy
+HOST-SUFFIX,116cd.net,proxy
+HOST-SUFFIX,anxia.com,proxy
+HOST-SUFFIX,sq.cc,proxy
