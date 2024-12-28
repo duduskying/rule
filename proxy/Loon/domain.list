@@ -2,9 +2,9 @@
 # AUTHOR: duduskying
 # REPO: https://github.com/duduskying/rule
 # Last Updated: 2024-12-28 16:08:08
-# DOMAIN/HOST Count: 11
+# DOMAIN/HOST Count: 12
 # DOMAIN-SUFFIX/HOST-SUFFIX Count: 9
-# Total Count: 20
+# Total Count: 21
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
@@ -24,4 +24,5 @@ DOMAIN,fergver.vvv
 DOMAIN,fergver.djafjla
 DOMAIN,12234.wq
 DOMAIN,12234.wq
+DOMAIN,4444jljk.ffj
 DOMAIN,4444jljk.ffj
