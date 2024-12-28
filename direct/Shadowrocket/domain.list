@@ -2,9 +2,9 @@
 # AUTHOR: duduskying
 # REPO: https://github.com/duduskying/rule
 # UPDATED: 2024-07-03 16:12:40
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 9
-# TOTAL: 10
+# DOMAIN/HOST Count: 1
+# DOMAIN-SUFFIX/HOST-SUFFIX Count: 11
+# Total Count: 12
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,116cd.com
 DOMAIN-SUFFIX,116cd.net
 DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,sq.cc
+DOMAIN-SUFFIX,duduskying.tk
+DOMAIN-SUFFIX,zhangyang2013.synology.me
