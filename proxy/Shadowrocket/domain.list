@@ -1,10 +1,10 @@
 # NAME: Shadowrocket-proxy
 # AUTHOR: duduskying
 # REPO: https://github.com/duduskying/rule
-# UPDATED: 2024-12-28 01:33:28
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 0
-# TOTAL: 1
+# Last Updated: 2024-12-28 15:06:24
+# DOMAIN/HOST Count: 1
+# DOMAIN-SUFFIX/HOST-SUFFIX Count: 0
+# Total Count: 1
 
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,115.com
@@ -17,4 +17,5 @@ DOMAIN-SUFFIX,116cd.net
 DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,sq.cc
 DOMAIN,12213123.com
+DOMAIN,123.com
 DOMAIN,123.com
