@@ -1,10 +1,10 @@
 # NAME: QuantumultX-proxy
 # AUTHOR: duduskying
 # REPO: https://github.com/duduskying/rule
-# UPDATED: 2024-12-28 01:33:27
-# HOST: 1
-# HOST-SUFFIX: 0
-# TOTAL: 1
+# Last Updated: 2024-12-28 15:06:22
+# DOMAIN/HOST Count: 1
+# DOMAIN-SUFFIX/HOST-SUFFIX Count: 0
+# Total Count: 1
 
 HOST,fhnfile.oss-cn-shenzhen.aliyuncs.com,proxy
 HOST-SUFFIX,115.com,proxy
@@ -17,4 +17,5 @@ HOST-SUFFIX,116cd.net,proxy
 HOST-SUFFIX,anxia.com,proxy
 HOST-SUFFIX,sq.cc,proxy
 HOST,12213123.com,proxy
+HOST,123.com,proxy
 HOST,123.com,proxy
