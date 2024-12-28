@@ -1,11 +1,10 @@
 # NAME: Loon-proxy
 # AUTHOR: duduskying
 # REPO: https://github.com/duduskying/rule
-# Last Updated: 2024-12-28 15:06:19
+# Last Updated: 2024-12-28 15:29:16
 # DOMAIN/HOST Count: 1
 # DOMAIN-SUFFIX/HOST-SUFFIX Count: 0
 # Total Count: 1
-
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
@@ -18,4 +17,4 @@ DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,sq.cc
 DOMAIN,12213123.com
 DOMAIN,123.com
-DOMAIN,123.com
+DOMAIN,jdlasjlkas.com
