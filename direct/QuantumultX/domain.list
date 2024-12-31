@@ -3,8 +3,18 @@
 # REPO: https://github.com/duduskying/rule
 # UPDATED: 2024-07-03 16:12:40
 # DOMAIN/HOST Count: 3
-# DOMAIN-SUFFIX/HOST-SUFFIX Count: 0
-# Total Count: 3
+# DOMAIN-SUFFIX/HOST-SUFFIX Count: 10
+# Total Count: 13
 HOST,doubaobao.ddns.net,direct
 HOST,zhangyang2013.synology.me,direct
 HOST,nezha.anni.nyc.mn,direct
+HOST-SUFFIX,duduskying.tk,direct
+HOST-SUFFIX,131005.xyz,direct
+HOST-SUFFIX,duduskying.cf,direct
+HOST-SUFFIX,ipa.store,direct
+HOST-SUFFIX,cdn.jsdelivr.net,direct
+HOST-SUFFIX,leshizyimg.com,direct
+HOST-SUFFIX,wogg.xxooo.cf,direct
+HOST-SUFFIX,wulishe.xyz,direct
+HOST-SUFFIX,pm2.io,direct
+HOST-SUFFIX,ipdb.030101.xyz,direct
