@@ -2,6 +2,9 @@
 # AUTHOR: duduskying
 # REPO: https://github.com/duduskying/rule
 # UPDATED: 2024-07-03 16:12:40
-# DOMAIN/HOST Count: 1
-# DOMAIN-SUFFIX/HOST-SUFFIX Count: 11
-# Total Count: 12
+# DOMAIN/HOST Count: 3
+# DOMAIN-SUFFIX/HOST-SUFFIX Count: 0
+# Total Count: 3
+HOST,doubaobao.ddns.net,direct
+HOST,zhangyang2013.synology.me,direct
+HOST,nezha.anni.nyc.mn,direct
