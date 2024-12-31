@@ -2,10 +2,10 @@
 # AUTHOR: duduskying
 # REPO: https://github.com/duduskying/rule
 # UPDATED: 2024-07-03 16:12:40
-# DOMAIN/HOST Count: 3
+# DOMAIN/HOST Count: 2
 # DOMAIN-SUFFIX/HOST-SUFFIX Count: 10
-# Total Count: 13
-HOST,doubaobao.ddns.net,direct
+# DOMAIN-KEYWORD/HOST-KEYWORD Count: 2
+# Total Count: 12
 HOST,zhangyang2013.synology.me,direct
 HOST,nezha.anni.nyc.mn,direct
 HOST-SUFFIX,duduskying.tk,direct
@@ -18,3 +18,5 @@ HOST-SUFFIX,wogg.xxooo.cf,direct
 HOST-SUFFIX,wulishe.xyz,direct
 HOST-SUFFIX,pm2.io,direct
 HOST-SUFFIX,ipdb.030101.xyz,direct
+HOST-KEYWORD,yuheng,direct
+HOST-KEYWORD,yqc-premium,direct
