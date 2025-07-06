@@ -1,1 +1,13 @@
-1
+# NAME: Loon-proxy
+# AUTHOR: duduskying
+# REPO: https://github.com/duduskying/rule
+# Last Updated: 2024-12-28 16:08:08
+# DOMAIN/HOST Count: 13
+# DOMAIN-SUFFIX/HOST-SUFFIX Count: 9
+# Total Count: 22
+#DOMAIN-SUFFIX,sq.cc
+DOMAIN,ccvm.abcde.nyx.mn
+DOMAIN,vmess.abcde.nyx.mn
+DOMAIN,vl.abcde.nyx.mn
+DOMAIN,tj.131005.xyz
+DOMAIN,sub.anni.dpdns.org
