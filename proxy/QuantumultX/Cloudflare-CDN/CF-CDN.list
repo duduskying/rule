@@ -2,10 +2,13 @@
 # AUTHOR: duduskying
 # REPO: https://github.com/duduskying/rule
 # UPDATED: 2025-09-19 11:53:55
-# HOST-SUFFIX: 0
-# IP-CIDR: 22
-# IP6-CIDR: 0
-# TOTAL: 22
+# HOST-SUFFIX: 3
+# IP-CIDR: 15
+# IP6-CIDR: 7
+# TOTAL: 25
+HOST-SUFFIX,ip.sb,Cloudflare
+HOST-SUFFIX,chaturbate.com,Cloudflare
+HOST-SUFFIX,freecloud.ltd,Cloudflare
 IP-CIDR,103.21.244.0/22,Cloudflare
 IP-CIDR,103.22.200.0/22,Cloudflare
 IP-CIDR,103.31.4.0/22,Cloudflare
