@@ -1,0 +1,12 @@
+# NAME: Loon-proxy
+# AUTHOR: duduskying
+# REPO: https://github.com/duduskying/rule
+# Last Updated: 2025-12-23 16:08:08
+# DOMAIN/HOST Count: 0
+# DOMAIN-SUFFIX/HOST-SUFFIX Count: 5
+# Total Count: 5
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,missav.live
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-SUFFIX,missav.com
